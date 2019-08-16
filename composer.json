@@ -33,7 +33,6 @@
     },
     "autoload": {
         "psr-4": {
-            "AceKYD\\RaveWidget\\": "packages/acekyd/rave-widget/src",
             "App\\": "app/"
         },
         "classmap": [
@@ -43,7 +42,6 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "AceKYD\\RaveWidget\\": "packages/acekyd/rave-widget/src",
             "Tests\\": "tests/"
         }
     },
